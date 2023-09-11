@@ -45,6 +45,7 @@ To run Evidence, use:
 
 ```shell
 cd reports
+npm install
 npm run dev
 ```
 
